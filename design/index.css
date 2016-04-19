@@ -1,0 +1,43 @@
+
+div.index {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+}
+
+div.index a {
+  display: block;
+  width: 360px;
+  height: 360px;
+  color: #545454;
+  text-align: center;
+  text-decoration: none;
+  order: 1;
+  transition: 250ms all ease-out;
+}
+
+div.index a:hover {
+  background: #ffe51f;
+  transition: 250ms all ease-out;
+}
+
+div.index img {
+  display: inline-block;
+  width: 256px;
+  height: 256px;
+}
+
+div.index h3 {
+  font-size: 32px;
+  transition: 250ms all ease-out;
+}
+
+
+div.index a:hover h3 {
+  color: #ffffff;
+  transition: 250ms all ease-out;
+}
