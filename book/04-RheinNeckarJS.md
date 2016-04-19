@@ -27,8 +27,6 @@
 
 ## And of course: plenty of pizza and beer available
 
-
-
-
+## Any Questions???
 
 

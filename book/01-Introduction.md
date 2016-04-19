@@ -3,11 +3,11 @@
 
 # $whoami
 
-## $whoami Christoph Martens
+## Christoph Martens / cookiengineer
 
 - 
 
-## $whoami Martina Kraus
+## Martina Kraus / CodeKittey
 
 - Passionate JavaScript Developer
 - University Lecturer
